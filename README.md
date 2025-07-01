@@ -12,3 +12,13 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 Realizzate prima un file README.md in cui mettere il testo dell'esercizio e scomponente il problema in sotto problemi.
 Numero minimo di push: 5
+
+1: Raccolta dati:
+   chiedere il numero di km da percorrere e l'eta del passeggero
+   verificare la validita' degli input
+2: Calcolo del costo del biglietto
+   calcolare il prezzo base del biglietto in relazione ai km percorsi
+   applicare gli sconti per i minori e gli over 65
+3:Formattazione e output del prezzo finale:
+   formattare il prezzo finale per visualizzare solo due decimali
+   stampare il prezzo finale in forma umana  
