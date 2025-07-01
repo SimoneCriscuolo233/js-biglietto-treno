@@ -10,3 +10,6 @@ if (age < 18) {
 } else if (age >= 65) {
   price = price * 0.6; // Sconto del 40%
 }
+// Terzo sotto problema: Formattazione e output del prezzo
+let finalPrice = price.toFixed(2);
+console.log(`Il prezzo del biglietto è: ${finalPrice}€`);
